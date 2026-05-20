@@ -1,0 +1,19 @@
+{
+  "name": "southern-goth-web",
+  "description": "Sitio web inspirado en el Southern Gothic sobre la historia de la cultura gótica.",
+  "version": "1.0.0",
+  "main": "main.py",
+  "scripts": {
+    "start": "python main.py"
+  },
+  "keywords": [
+    "goth",
+    "southern-gothic",
+    "dark",
+    "flask",
+    "history",
+    "gothic-culture"
+  ],
+  "author": "Mary C.E"
+
+}
